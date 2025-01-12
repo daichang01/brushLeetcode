@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/root/dev/brush/cpp_coding",
+    "Codegeex.GenerationPreference": "line by line",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}

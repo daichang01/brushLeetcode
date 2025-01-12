@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/04LinkListNode.dir/04LinkListNode.cpp.o -o 04LinkListNode 

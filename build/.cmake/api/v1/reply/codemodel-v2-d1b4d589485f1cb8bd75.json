@@ -1,0 +1,201 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test"
+				},
+				{
+					"build" : "example",
+					"jsonFile" : "directory-example-Debug-b6fca4a6d0a37c6ae6b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "example"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "my_project_name",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "01arrayTest::@145eef247bfb46b6828c",
+					"jsonFile" : "target-01arrayTest-Debug-b5a4af7037f696e4b3ff.json",
+					"name" : "01arrayTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "02dynamicArrayTest::@145eef247bfb46b6828c",
+					"jsonFile" : "target-02dynamicArrayTest-Debug-bf292280bdb7dea81585.json",
+					"name" : "02dynamicArrayTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "03MyArrayList::@145eef247bfb46b6828c",
+					"jsonFile" : "target-03MyArrayList-Debug-e5c351b2284c500a28c7.json",
+					"name" : "03MyArrayList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "04LinkListNode::@145eef247bfb46b6828c",
+					"jsonFile" : "target-04LinkListNode-Debug-005fecc5d1ed21903fdf.json",
+					"name" : "04LinkListNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "05CreateSingleLinkedList::@145eef247bfb46b6828c",
+					"jsonFile" : "target-05CreateSingleLinkedList-Debug-a656d3317877c4e4058c.json",
+					"name" : "05CreateSingleLinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "06CreateDoubleLinkedList::@145eef247bfb46b6828c",
+					"jsonFile" : "target-06CreateDoubleLinkedList-Debug-b214ad579a2b6e9d211e.json",
+					"name" : "06CreateDoubleLinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "07MyLinkList::@145eef247bfb46b6828c",
+					"jsonFile" : "target-07MyLinkList-Debug-c7869a834d1db826f087.json",
+					"name" : "07MyLinkList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "08leetcode111::@145eef247bfb46b6828c",
+					"jsonFile" : "target-08leetcode111-Debug-fd1db721ed38a929aae5.json",
+					"name" : "08leetcode111",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "09leetcode111BFS::@145eef247bfb46b6828c",
+					"jsonFile" : "target-09leetcode111BFS-Debug-95f24b9b56a1994073ce.json",
+					"name" : "09leetcode111BFS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "10Leetcode704::@145eef247bfb46b6828c",
+					"jsonFile" : "target-10Leetcode704-Debug-078ddbae8bf70a1fbfd3.json",
+					"name" : "10Leetcode704",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "11leetcode27::@145eef247bfb46b6828c",
+					"jsonFile" : "target-11leetcode27-Debug-fe55477ebb4e0291d87c.json",
+					"name" : "11leetcode27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "12leetcode977::@145eef247bfb46b6828c",
+					"jsonFile" : "target-12leetcode977-Debug-2351b0221ee46eb987c7.json",
+					"name" : "12leetcode977",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/dev/brush/build",
+		"source" : "/root/dev/brush/cpp_coding"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

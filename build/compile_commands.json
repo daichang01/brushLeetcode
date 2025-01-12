@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/12leetcode977.dir/12leetcode977.cpp.o -c /root/dev/brush/cpp_coding/src/12leetcode977.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/12leetcode977.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/11leetcode27.dir/11leetcode27.cpp.o -c /root/dev/brush/cpp_coding/src/11leetcode27.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/11leetcode27.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/01arrayTest.dir/01arrayTest.cpp.o -c /root/dev/brush/cpp_coding/src/01arrayTest.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/01arrayTest.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/07MyLinkList.dir/07MyLinkList.cpp.o -c /root/dev/brush/cpp_coding/src/07MyLinkList.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/07MyLinkList.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/02dynamicArrayTest.dir/02dynamicArrayTest.cpp.o -c /root/dev/brush/cpp_coding/src/02dynamicArrayTest.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/02dynamicArrayTest.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/03MyArrayList.dir/03MyArrayList.cpp.o -c /root/dev/brush/cpp_coding/src/03MyArrayList.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/03MyArrayList.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/04LinkListNode.dir/04LinkListNode.cpp.o -c /root/dev/brush/cpp_coding/src/04LinkListNode.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/04LinkListNode.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/05CreateSingleLinkedList.dir/05CreateSingleLinkedList.cpp.o -c /root/dev/brush/cpp_coding/src/05CreateSingleLinkedList.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/05CreateSingleLinkedList.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/08leetcode111.dir/08leetcode111.cpp.o -c /root/dev/brush/cpp_coding/src/08leetcode111.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/08leetcode111.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/06CreateDoubleLinkedList.dir/06CreateDoubleLinkedList.cpp.o -c /root/dev/brush/cpp_coding/src/06CreateDoubleLinkedList.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/06CreateDoubleLinkedList.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/09leetcode111BFS.dir/09leetcode111BFS.cpp.o -c /root/dev/brush/cpp_coding/src/09leetcode111BFS.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/09leetcode111BFS.cpp"
+},
+{
+  "directory": "/root/dev/brush/build/src",
+  "command": "/usr/bin/g++  -I/root/dev/brush/cpp_coding/include -g -std=gnu++1y -o CMakeFiles/10Leetcode704.dir/10Leetcode704.cpp.o -c /root/dev/brush/cpp_coding/src/10Leetcode704.cpp",
+  "file": "/root/dev/brush/cpp_coding/src/10Leetcode704.cpp"
+}
+]

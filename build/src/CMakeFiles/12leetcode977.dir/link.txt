@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/12leetcode977.dir/12leetcode977.cpp.o -o 12leetcode977 

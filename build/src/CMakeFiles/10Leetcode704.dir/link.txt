@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/10Leetcode704.dir/10Leetcode704.cpp.o -o 10Leetcode704 

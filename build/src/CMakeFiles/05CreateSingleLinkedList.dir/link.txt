@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/05CreateSingleLinkedList.dir/05CreateSingleLinkedList.cpp.o -o 05CreateSingleLinkedList 

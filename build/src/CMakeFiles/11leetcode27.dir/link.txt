@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/11leetcode27.dir/11leetcode27.cpp.o -o 11leetcode27 

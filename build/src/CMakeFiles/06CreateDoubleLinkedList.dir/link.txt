@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/06CreateDoubleLinkedList.dir/06CreateDoubleLinkedList.cpp.o -o 06CreateDoubleLinkedList 
